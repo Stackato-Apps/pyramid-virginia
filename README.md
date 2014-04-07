@@ -11,4 +11,4 @@ dynamic file content from a disk directory.
 
 ## Deploying to Stackato
 
-    stackato push pyramid-virginia
+    stackato push -n
