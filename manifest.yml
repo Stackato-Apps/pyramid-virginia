@@ -1,0 +1,4 @@
+applications:
+- name: pyramid-virginia
+  framework:
+    name: python
