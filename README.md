@@ -9,6 +9,6 @@ dynamic file content from a disk directory.
     pypm install -r requirements.txt
     paster serve development.ini
 
-## Deploying to Stackato
+## Deploying to HPE Helion Stackato
 
     stackato push -n
