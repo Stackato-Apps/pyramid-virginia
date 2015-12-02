@@ -1,3 +1,6 @@
+six
+paste
+pastedeploy
 pyramid
 weberror
 pyramid_zcml
