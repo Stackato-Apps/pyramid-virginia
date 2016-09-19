@@ -1,4 +1,6 @@
 applications:
 - name: pyramid-virginia
+  buildpack: https://github.com/cloudfoundry/python-buildpack
   instances: 1
   memory: 64M
+  stack: cflinuxfs2
